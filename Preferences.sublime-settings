@@ -2,6 +2,7 @@
 	"ignored_packages":
 	[
 		"Vintage",
+		"Rust",
 	],
 	"color_scheme": "Nord.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
