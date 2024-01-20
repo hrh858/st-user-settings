@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Enki Theme",
+		"LSP",
+		"LSP-gopls",
+		"LSP-json",
+		"LSP-prisma",
+		"LSP-svelte",
+		"LSP-typescript",
+		"NeoVintageous",
+		"Nord",
+		"Origami",
+		"Package Control",
+		"Svelte",
+		"Theme - Cyanide",
+	],
+}

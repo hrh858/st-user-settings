@@ -1,0 +1,19 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Nord.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"font_face": "BerkeleyMono Nerd Font",
+	"font_size": 15,
+	"neovintageous_build_version": 13200,
+	"index_files": true,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
+	"scroll_context_lines": 10,
+	"caret_extra_width": 1,
+	"relative_line_numbers": true,
+}
