@@ -29,11 +29,11 @@
             "o"
         ],
         "command": "focus_side_bar",
-        "context": [
-            {
-                "key": "panel_has_focus"
-            }
-        ]
+        // "context": [
+        //     {
+        //         "key": "panel_has_focus"
+        //     }
+        // ]
     },
     {
         "keys": [
