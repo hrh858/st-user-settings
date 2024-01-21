@@ -16,13 +16,13 @@
         ],
         "command": "close"
     },
-    {
-        "keys": [
-            " ",
-            "e"
-        ],
-        "command": "toggle_side_bar"
-    },
+    // {
+    //     "keys": [
+    //         " ",
+    //         "e"
+    //     ],
+    //     "command": "toggle_side_bar"
+    // },
     {
         "keys": [
             " ",
